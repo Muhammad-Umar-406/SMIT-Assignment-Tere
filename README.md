@@ -1,1 +1,1 @@
-"# SMIT-Assignment-Tere-Figma" 
+"# SMIT-Assignment-Tere" 
