@@ -386,17 +386,17 @@ outline: none;
     margin-top: -20px;
 
 }
-.left-interior{
-    margin-left: 50px;
-    margin-top: 20px;
-}
-.middleDiv{
-    margin-left: -250px;
-    margin-top: 50px;
-}
 .right-interior{
     margin-left: -200px;
+    margin-top: 1px;
+
+
+}
+.middleDiv{
+    margin-left: -170px;
     margin-top: 20px;
-    
+}
+.left-interior{
+    margin-left: 225px;
 }
 
